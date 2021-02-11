@@ -18,7 +18,7 @@ namespace EFDatabaseFirst
         [Route(nameof(Index))]
         public IActionResult Index()
         {
-            return Ok("I'm alive bitsch!");
+            return Ok("Post controller is active");
         }
         [HttpGet]
         [Route(nameof(Home))]

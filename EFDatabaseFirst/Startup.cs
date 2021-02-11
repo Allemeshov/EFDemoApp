@@ -61,7 +61,7 @@ namespace EFDatabaseFirst
                 
                 endpoints.MapControllerRoute(
                     "default",
-                    "{controller}/{action}");
+                    "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

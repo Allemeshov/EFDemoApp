@@ -10,7 +10,7 @@ namespace EFDemoWeb.Controllers
         // GET
         public IActionResult Index()
         {
-            return Ok("Home index");
+            return Ok("Home index motherfucker");
         }
     }
 }
