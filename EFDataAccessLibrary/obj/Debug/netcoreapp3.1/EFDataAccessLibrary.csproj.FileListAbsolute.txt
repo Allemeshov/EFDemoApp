@@ -1,0 +1,11 @@
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.dll.config
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.deps.json
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.runtimeconfig.json
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.runtimeconfig.dev.json
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.dll
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/bin/Debug/netcoreapp3.1/EFDataAccessLibrary.pdb
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/obj/Debug/netcoreapp3.1/EFDataAccessLibrary.csprojAssemblyReference.cache
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/obj/Debug/netcoreapp3.1/EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/obj/Debug/netcoreapp3.1/EFDataAccessLibrary.dll
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/obj/Debug/netcoreapp3.1/EFDataAccessLibrary.pdb
+/Users/sveta/Documents/IT/C#/EF/EFDemoApp/EFDataAccessLibrary/obj/Debug/netcoreapp3.1/EFDataAccessLibrary.genruntimeconfig.cache
